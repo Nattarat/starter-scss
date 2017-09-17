@@ -2,6 +2,7 @@
 prepros.cfg
 .DS_Store
 debug.log
+main.css
 
 # Folders
 build
